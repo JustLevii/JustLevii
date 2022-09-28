@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://c.tenor.com/0zf81ScIdswAAAAS/osman-aga-akasya-dura%C4%9F%C4%B1.gif"  />
+<!-- <img align="right" height="150" src="https://c.tenor.com/0zf81ScIdswAAAAS/osman-aga-akasya-dura%C4%9F%C4%B1.gif"  /> -->
 
 ###
 
